@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashu-TosH-07
+- 👋 Hi, I’m Ashutosh Mishra
 - 👀 I’m interested in Coding and Gaming
 - 🌱 I’m currently learning - Master of Computer Application
 - 📫 How to reach me - "ashutosh12555@gmail.com"
