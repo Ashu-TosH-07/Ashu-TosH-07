@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ashutosh Mishra
-- 👀 I’m interested in Coding and Gaming
-- 🌱 I’m currently learning - Master of Computer Application
-- 📫 How to reach me - "ashutosh12555@gmail.com"
 - 😄 Nickname: Chandan 
+- 👨‍💻 Passionate about Coding and Gaming
+- 👨‍🎓 Recently completed my Master of Computer Application (MCA)
+- 📫 Reach me at ashutosh12555@gmail.com
 - ⚡ Fun fact: I spend 10% of my time writing code and 90% debugging it! 😵‍💻
 
 <!---
